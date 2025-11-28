@@ -13,8 +13,11 @@ Java
 - Problem-4.java
 
 ## How to run
-javac Problem-1.java
-java Problem-1
+
+## For compilarion:
+  javac Problem-1.java
+## For Running
+  java Problem-1
 
 ## Notes
 Tandemloop Screening Test Submission
